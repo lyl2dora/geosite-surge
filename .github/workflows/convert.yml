@@ -9,6 +9,10 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # Allow manual trigger
 
+# Give write permissions to the workflow
+permissions:
+  contents: write
+  
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -43,6 +47,9 @@ jobs:
         sudo mv "sing-box-${LATEST_VERSION}-linux-amd64/sing-box" /usr/local/bin/
         sudo chmod +x /usr/local/bin/sing-box
         
+        # Clean up installation files
+        rm -rf sing-box-${LATEST_VERSION}-linux-amd64*
+        
         # Verify installation
         sing-box version
     
@@ -76,5 +83,6 @@ jobs:
         git add rules/
         git commit -m "Auto update: Convert rules at ${DATE}" || true
         
-        # Push changes
-        git push origin main || git push origin master
+        # Push changes - detect current branch
+        BRANCH=$(git rev-parse --abbrev-ref HEAD)
+        git push origin $BRANCH
