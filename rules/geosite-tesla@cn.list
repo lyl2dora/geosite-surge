@@ -1,26 +1,9 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-tesla@cn.srs
-# Total rules: 22
+# Total rules: 5
 #
 
-DOMAIN,t
-DOMAIN,e
-DOMAIN,s
-DOMAIN,l
-DOMAIN,a
-DOMAIN,-
-DOMAIN,c
-DOMAIN,d
-DOMAIN,n
-DOMAIN,.
-DOMAIN,t
-DOMAIN,h
-DOMAIN,r
-DOMAIN,o
-DOMAIN,n
-DOMAIN,.
-DOMAIN,c
-DOMAIN,n
+DOMAIN,tesla-cdn.thron.cn
 DOMAIN-SUFFIX,tesla.cn
 DOMAIN-SUFFIX,tesla.com.cn
 DOMAIN-SUFFIX,teslamotors.cn

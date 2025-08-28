@@ -1,30 +1,9 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-nvidia@cn.srs
-# Total rules: 25
+# Total rules: 4
 #
 
-DOMAIN,c
-DOMAIN,n
-DOMAIN,.
-DOMAIN,d
-DOMAIN,o
-DOMAIN,w
-DOMAIN,n
-DOMAIN,l
-DOMAIN,o
-DOMAIN,a
-DOMAIN,d
-DOMAIN,.
-DOMAIN,n
-DOMAIN,v
-DOMAIN,i
-DOMAIN,d
-DOMAIN,i
-DOMAIN,a
-DOMAIN,.
-DOMAIN,c
-DOMAIN,o
-DOMAIN,m
+DOMAIN,cn.download.nvidia.com
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,gputechconf.cn
 DOMAIN-SUFFIX,nvidia.cn
