@@ -31,3 +31,8 @@ tmp/
 
 # Generated rules (will be managed by GitHub Actions)
 # rules/ directory is kept to store the converted files
+
+# sing-box temporary files
+sing-box-*-linux-amd64/
+sing-box-*-linux-amd64.tar.gz
+*.tar.gz
