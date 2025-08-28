@@ -1,0 +1,80 @@
+name: Convert Sing-box Rules to Surge
+
+on:
+  push:
+    paths:
+      - 'Link.txt'
+  schedule:
+    # Run every 24 hours at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Install sing-box
+      run: |
+        # Get latest release version
+        LATEST_VERSION=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name"' | sed -E 's/.*"v([^"]+)".*/\1/')
+        echo "Installing sing-box version: ${LATEST_VERSION}"
+        
+        # Download and extract sing-box
+        wget -q "https://github.com/SagerNet/sing-box/releases/download/v${LATEST_VERSION}/sing-box-${LATEST_VERSION}-linux-amd64.tar.gz"
+        tar -xzf "sing-box-${LATEST_VERSION}-linux-amd64.tar.gz"
+        
+        # Move to PATH
+        sudo mv "sing-box-${LATEST_VERSION}-linux-amd64/sing-box" /usr/local/bin/
+        sudo chmod +x /usr/local/bin/sing-box
+        
+        # Verify installation
+        sing-box version
+    
+    - name: Convert rules
+      run: |
+        echo "Starting rule conversion..."
+        python convert.py
+    
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git add -A
+        if git diff --staged --quiet; then
+          echo "No changes detected"
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "Changes detected"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.has_changes == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # Get current date for commit message
+        DATE=$(date +'%Y-%m-%d %H:%M:%S')
+        
+        # Commit changes
+        git add rules/
+        git commit -m "Auto update: Convert rules at ${DATE}" || true
+        
+        # Push changes
+        git push origin main || git push origin master
