@@ -1,0 +1,11 @@
+# Surge Rule Set
+# Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-icloud@cn.srs
+# Total rules: 6
+#
+
+DOMAIN-SUFFIX,apple-icloud.cn
+DOMAIN-SUFFIX,appleicloud.cn
+DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud.net.cn
+DOMAIN-SUFFIX,icloudapple.cn

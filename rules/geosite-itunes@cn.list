@@ -1,0 +1,10 @@
+# Surge Rule Set
+# Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-itunes@cn.srs
+# Total rules: 5
+#
+
+DOMAIN-SUFFIX,apple-itunes.cn
+DOMAIN-SUFFIX,itunes-apple.cn
+DOMAIN-SUFFIX,itunesapple.cn
+DOMAIN-SUFFIX,itunesradio.cn
+DOMAIN-SUFFIX,itunesradio.com.cn

@@ -1,0 +1,34 @@
+# Surge Rule Set
+# Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-ubisoft@cn.srs
+# Total rules: 29
+#
+
+DOMAIN,u
+DOMAIN,p
+DOMAIN,l
+DOMAIN,a
+DOMAIN,y
+DOMAIN,p
+DOMAIN,c
+DOMAIN,-
+DOMAIN,s
+DOMAIN,-
+DOMAIN,u
+DOMAIN,b
+DOMAIN,i
+DOMAIN,s
+DOMAIN,o
+DOMAIN,f
+DOMAIN,t
+DOMAIN,.
+DOMAIN,c
+DOMAIN,d
+DOMAIN,n
+DOMAIN,.
+DOMAIN,u
+DOMAIN,b
+DOMAIN,i
+DOMAIN,.
+DOMAIN,c
+DOMAIN,o
+DOMAIN,m

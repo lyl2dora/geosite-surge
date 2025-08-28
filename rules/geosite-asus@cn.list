@@ -1,0 +1,16 @@
+# Surge Rule Set
+# Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-asus@cn.srs
+# Total rules: 11
+#
+
+DOMAIN-SUFFIX,a
+DOMAIN-SUFFIX,s
+DOMAIN-SUFFIX,u
+DOMAIN-SUFFIX,s
+DOMAIN-SUFFIX,.
+DOMAIN-SUFFIX,c
+DOMAIN-SUFFIX,o
+DOMAIN-SUFFIX,m
+DOMAIN-SUFFIX,.
+DOMAIN-SUFFIX,c
+DOMAIN-SUFFIX,n
