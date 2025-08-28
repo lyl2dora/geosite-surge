@@ -62,26 +62,42 @@ def convert_to_surge_format(json_data: Dict) -> List[str]:
         return surge_rules
     
     for rule in json_data['rules']:
-        # Process domain rules
+        # Process domain rules (can be string or list)
         if 'domain' in rule:
-            for domain in rule['domain']:
-                surge_rules.append(f"DOMAIN,{domain}")
+            domains = rule['domain']
+            if isinstance(domains, str):
+                surge_rules.append(f"DOMAIN,{domains}")
+            elif isinstance(domains, list):
+                for domain in domains:
+                    surge_rules.append(f"DOMAIN,{domain}")
         
-        # Process domain_suffix rules
+        # Process domain_suffix rules (can be string or list)
         if 'domain_suffix' in rule:
-            for suffix in rule['domain_suffix']:
-                surge_rules.append(f"DOMAIN-SUFFIX,{suffix}")
+            suffixes = rule['domain_suffix']
+            if isinstance(suffixes, str):
+                surge_rules.append(f"DOMAIN-SUFFIX,{suffixes}")
+            elif isinstance(suffixes, list):
+                for suffix in suffixes:
+                    surge_rules.append(f"DOMAIN-SUFFIX,{suffix}")
         
-        # Process domain_keyword rules
+        # Process domain_keyword rules (can be string or list)
         if 'domain_keyword' in rule:
-            for keyword in rule['domain_keyword']:
-                surge_rules.append(f"DOMAIN-KEYWORD,{keyword}")
+            keywords = rule['domain_keyword']
+            if isinstance(keywords, str):
+                surge_rules.append(f"DOMAIN-KEYWORD,{keywords}")
+            elif isinstance(keywords, list):
+                for keyword in keywords:
+                    surge_rules.append(f"DOMAIN-KEYWORD,{keyword}")
         
         # Note: domain_regex is not directly supported in Surge's basic rule format
         # We can add a comment for regex rules
         if 'domain_regex' in rule:
-            for regex in rule['domain_regex']:
-                surge_rules.append(f"# Regex rule not directly supported: {regex}")
+            regexes = rule['domain_regex']
+            if isinstance(regexes, str):
+                surge_rules.append(f"# Regex rule not directly supported: {regexes}")
+            elif isinstance(regexes, list):
+                for regex in regexes:
+                    surge_rules.append(f"# Regex rule not directly supported: {regex}")
     
     return surge_rules
 
