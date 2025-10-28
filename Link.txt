@@ -24,4 +24,4 @@ https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-ubisoft
 
 https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-steam@cn.srs
 
-https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-capitalonline.srs
+https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
