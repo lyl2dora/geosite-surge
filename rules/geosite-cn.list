@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 7571
+# Total rules: 7600
 #
 
 DOMAIN,265.com
@@ -12,6 +12,8 @@ DOMAIN,a2.mzstatic.com
 DOMAIN,a3.mzstatic.com
 DOMAIN,a4.mzstatic.com
 DOMAIN,a5.mzstatic.com
+DOMAIN,activate.activation-v2.kaspersky.com
+DOMAIN,activation-v2.geo.kaspersky.com
 DOMAIN,activation-v2.kaspersky.com
 DOMAIN,adcdownload.apple.com
 DOMAIN,adcdownload.apple.com.akadns.net
@@ -138,6 +140,11 @@ DOMAIN,ctldl.windowsupdate.com
 DOMAIN,cueme-api.quark.cn
 DOMAIN,customization-cdn.dell.com
 DOMAIN,dartsearch-cn.net
+DOMAIN,dc1-cert.ksn.kaspersky-labs.com
+DOMAIN,dc1-file.ksn.kaspersky-labs.com
+DOMAIN,dc1-pp.ksn.kaspersky-labs.com
+DOMAIN,dc1-st.ksn.kaspersky-labs.com
+DOMAIN,dc1.ksn.kaspersky-labs.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
 DOMAIN,dds.dell.com
 DOMAIN,dejavu.apple.com
@@ -184,6 +191,7 @@ DOMAIN,e8aeb8bbdbbd7.cdn.sohucs.com
 DOMAIN,ea2cn-dev-outlet.dell.com
 DOMAIN,ea2cn-prod-outlet.dell.com
 DOMAIN,ea2cn-staging-outlet.dell.com
+DOMAIN,edge.geo.kaspersky.com
 DOMAIN,emmapplecodevice.googleapis.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN,enrichgw.10010.com
@@ -311,9 +319,29 @@ DOMAIN,js-cdn.music.apple.com
 DOMAIN,kc.kexinshe.com
 DOMAIN,km.support.apple.com
 DOMAIN,ksn-cinfo-geo.kaspersky-labs.com
+DOMAIN,ksn-cinfo.geoksn.kaspersky.com
+DOMAIN,ksn-crypto-info-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-kas-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-tcert-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-url-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-verdict-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-wifiplus-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
+DOMAIN,ksn-dc1-cert.geoksn.kaspersky.com
+DOMAIN,ksn-dc1-file.geoksn.kaspersky.com
+DOMAIN,ksn-dc1.geoksn.kaspersky.com
 DOMAIN,ksn-file-geo.kaspersky-labs.com
+DOMAIN,ksn-file.geoksn.kaspersky.com
+DOMAIN,ksn-info-geo.kaspersky-labs.com
+DOMAIN,ksn-info.geoksn.kaspersky.com
+DOMAIN,ksn-kas.geoksn.kaspersky.com
+DOMAIN,ksn-mdr.geoksn.kaspersky.com
+DOMAIN,ksn-tcert-geo.kaspersky-labs.com
+DOMAIN,ksn-tcert.geoksn.kaspersky.com
 DOMAIN,ksn-url-geo.kaspersky-labs.com
+DOMAIN,ksn-url.geoksn.kaspersky.com
 DOMAIN,ksn-verdict-geo.kaspersky-labs.com
+DOMAIN,ksn-verdict.geoksn.kaspersky.com
 DOMAIN,l2-uberproxy.corp.google.com
 DOMAIN,learn.microsoft.com
 DOMAIN,log-sdk.gifshow.com
@@ -325,6 +353,7 @@ DOMAIN,login.corp.google.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,manga.bilibili.com
 DOMAIN,maps.apple.com
+DOMAIN,mdr.ksn.kaspersky-labs.com
 DOMAIN,menu-static.gog-statics.com
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
@@ -440,6 +469,7 @@ DOMAIN,redirector.gvt1.com
 DOMAIN,redirector.offline-maps.gvt1.com
 DOMAIN,redirector.snap.gvt1.com
 DOMAIN,redirector.xn--ngstr-lra8j.com
+DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res.cdn.office.net
 DOMAIN,reserve-prime.apple.com
@@ -6133,7 +6163,6 @@ DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,tapimg.net
 DOMAIN-SUFFIX,taptap.cn
 DOMAIN-SUFFIX,taptap.com
-DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptapdada.com
 DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,tbcache.com
@@ -7549,28 +7578,28 @@ DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzy1.quyaoya.com
-# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
-# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
-# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
+# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
+# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
 # Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
