@@ -27,3 +27,5 @@ https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-steam@c
 https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
 
 https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-connectivity-check.srs
+
+https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-amazon.srs
