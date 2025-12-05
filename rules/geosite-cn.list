@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 7488
+# Total rules: 7511
 #
 
 DOMAIN,265.com
@@ -53,7 +53,6 @@ DOMAIN,avail.googleflights.net
 DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN,bag.itunes.apple.com
-DOMAIN,bbs.ztedevices.com
 DOMAIN,beacons.gcp.gvt2.com
 DOMAIN,beacons.gvt2.com
 DOMAIN,beacons2.gvt2.com
@@ -623,7 +622,6 @@ DOMAIN,www.microsoft.com
 DOMAIN,www.pxcc.com
 DOMAIN,www.recaptcha.net
 DOMAIN,www.support.apple.com
-DOMAIN,www.ztedevices.com
 DOMAIN,www4-static.gog-statics.com
 DOMAIN,xn--flw351e.com
 DOMAIN,xp.apple.com
@@ -718,6 +716,7 @@ DOMAIN-SUFFIX,178linux.com
 DOMAIN-SUFFIX,17989.com
 DOMAIN-SUFFIX,17cdn.com
 DOMAIN-SUFFIX,17house.com
+DOMAIN-SUFFIX,17k.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,17u.cn
 DOMAIN-SUFFIX,17u.net
@@ -1662,6 +1661,7 @@ DOMAIN-SUFFIX,betastar.cn
 DOMAIN-SUFFIX,bfcdnbf.com
 DOMAIN-SUFFIX,bfcdnrd.com
 DOMAIN-SUFFIX,bfcdnsc.com
+DOMAIN-SUFFIX,bgwxc.com
 DOMAIN-SUFFIX,bh3.com
 DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,biancheng.net
@@ -2155,6 +2155,7 @@ DOMAIN-SUFFIX,chat.top
 DOMAIN-SUFFIX,chatglm.cn
 DOMAIN-SUFFIX,chaz.fun
 DOMAIN-SUFFIX,chazhengla.com
+DOMAIN-SUFFIX,chazidian.com
 DOMAIN-SUFFIX,chaziyu.com
 DOMAIN-SUFFIX,chdi.com.cn
 DOMAIN-SUFFIX,che168.com
@@ -2860,6 +2861,7 @@ DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,dwz.cn
 DOMAIN-SUFFIX,dxm-cdn.com
 DOMAIN-SUFFIX,dxm-int.com
+DOMAIN-SUFFIX,dxmjinr.com
 DOMAIN-SUFFIX,dxmlcf.com
 DOMAIN-SUFFIX,dxmlcfintech.com
 DOMAIN-SUFFIX,dxmpay.com
@@ -3471,6 +3473,7 @@ DOMAIN-SUFFIX,hackhome.com
 DOMAIN-SUFFIX,hackinn.com
 DOMAIN-SUFFIX,hacpai.com
 DOMAIN-SUFFIX,haidilao.com
+DOMAIN-SUFFIX,haidubooks.com
 DOMAIN-SUFFIX,haier.com
 DOMAIN-SUFFIX,haier.net
 DOMAIN-SUFFIX,haiersmarthomes.com
@@ -3502,6 +3505,7 @@ DOMAIN-SUFFIX,haoyouyinxiang.com
 DOMAIN-SUFFIX,hapierxia.com
 DOMAIN-SUFFIX,hapipixia.com
 DOMAIN-SUFFIX,hapiyixia.com
+DOMAIN-SUFFIX,hapjs.org
 DOMAIN-SUFFIX,happyhlddz.com
 DOMAIN-SUFFIX,harmonyos.com
 DOMAIN-SUFFIX,haydaypop.cn
@@ -3522,6 +3526,8 @@ DOMAIN-SUFFIX,heavenlywind.cc
 DOMAIN-SUFFIX,hecdn.net
 DOMAIN-SUFFIX,hefei.cc
 DOMAIN-SUFFIX,heisha.net
+DOMAIN-SUFFIX,heiyan.com
+DOMAIN-SUFFIX,heiyanimg.com
 DOMAIN-SUFFIX,heiyu.space
 DOMAIN-SUFFIX,hello-inc.com
 DOMAIN-SUFFIX,hellobike.com
@@ -3602,6 +3608,7 @@ DOMAIN-SUFFIX,hongbo100.com
 DOMAIN-SUFFIX,hongdefund.com
 DOMAIN-SUFFIX,hongen.com
 DOMAIN-SUFFIX,hongsanban.com
+DOMAIN-SUFFIX,hongshu.com
 DOMAIN-SUFFIX,hongtastock.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hongyuanqh.com
@@ -3610,6 +3617,7 @@ DOMAIN-SUFFIX,honor.com
 DOMAIN-SUFFIX,honor.com.cn
 DOMAIN-SUFFIX,honorfile.com
 DOMAIN-SUFFIX,hoopchina.com.cn
+DOMAIN-SUFFIX,hotread.com
 DOMAIN-SUFFIX,houdao.com
 DOMAIN-SUFFIX,houyicaiji.com
 DOMAIN-SUFFIX,houyuantuan.com
@@ -4021,6 +4029,7 @@ DOMAIN-SUFFIX,j-test.com
 DOMAIN-SUFFIX,ja.gamersky.com
 DOMAIN-SUFFIX,ja1.gamersky.com
 DOMAIN-SUFFIX,ja2.gamersky.com
+DOMAIN-SUFFIX,jamcz.com
 DOMAIN-SUFFIX,jandan.net
 DOMAIN-SUFFIX,japps.cn
 DOMAIN-SUFFIX,jb51.com
@@ -4350,6 +4359,7 @@ DOMAIN-SUFFIX,kinghomechina.com
 DOMAIN-SUFFIX,kingsoft-office-service.com
 DOMAIN-SUFFIX,kingsoft.com
 DOMAIN-SUFFIX,kiyuu.club
+DOMAIN-SUFFIX,kjcdn.com
 DOMAIN-SUFFIX,kjwugx.com
 DOMAIN-SUFFIX,kk1.vip
 DOMAIN-SUFFIX,kkmh.com
@@ -4425,6 +4435,7 @@ DOMAIN-SUFFIX,kugoustore.com
 DOMAIN-SUFFIX,kugouvoice.com
 DOMAIN-SUFFIX,kugouyouth.com
 DOMAIN-SUFFIX,kujiale.com
+DOMAIN-SUFFIX,kujiang.com
 DOMAIN-SUFFIX,kumiao.com
 DOMAIN-SUFFIX,kunlunaq.com
 DOMAIN-SUFFIX,kunlunar.com
@@ -4736,6 +4747,7 @@ DOMAIN-SUFFIX,maimai.cn
 DOMAIN-SUFFIX,maisanqi.com
 DOMAIN-SUFFIX,maitix.com
 DOMAIN-SUFFIX,maixhub.com
+DOMAIN-SUFFIX,mala.cn
 DOMAIN-SUFFIX,mamayz.cn
 DOMAIN-SUFFIX,mamayz.com
 DOMAIN-SUFFIX,mamecn.com
@@ -4939,6 +4951,8 @@ DOMAIN-SUFFIX,mop.com
 DOMAIN-SUFFIX,morefreegame.com
 DOMAIN-SUFFIX,morganstanleyhuaxin.com
 DOMAIN-SUFFIX,moseeker.com
+DOMAIN-SUFFIX,motie.com
+DOMAIN-SUFFIX,motieimg.com
 DOMAIN-SUFFIX,moulem.com
 DOMAIN-SUFFIX,mountain.zhidao.baidu.com
 DOMAIN-SUFFIX,moyubuluo.com
@@ -5635,6 +5649,7 @@ DOMAIN-SUFFIX,rockyenglish.com
 DOMAIN-SUFFIX,roco.qq.com
 DOMAIN-SUFFIX,rong360.com
 DOMAIN-SUFFIX,rongechain.com
+DOMAIN-SUFFIX,rongshuxia.com
 DOMAIN-SUFFIX,roomeet.cn
 DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,routewize.com
@@ -5789,6 +5804,7 @@ DOMAIN-SUFFIX,shouqianba.com
 DOMAIN-SUFFIX,shouyoubus.com
 DOMAIN-SUFFIX,shrbank.com
 DOMAIN-SUFFIX,shssp.org
+DOMAIN-SUFFIX,shuhai.com
 DOMAIN-SUFFIX,shuidichou.com
 DOMAIN-SUFFIX,shuidihuzhu.com
 DOMAIN-SUFFIX,shuiyaohuo.cn
@@ -6028,6 +6044,7 @@ DOMAIN-SUFFIX,t1y5.com
 DOMAIN-SUFFIX,t8tms.com
 DOMAIN-SUFFIX,t9tms.com
 DOMAIN-SUFFIX,tacool.com
+DOMAIN-SUFFIX,tadu.com
 DOMAIN-SUFFIX,taichuan.com
 DOMAIN-SUFFIX,taichuan.net
 DOMAIN-SUFFIX,taihe.com
@@ -6699,6 +6716,7 @@ DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net
 DOMAIN-SUFFIX,vrzwk.top
 DOMAIN-SUFFIX,vscenevideo.com
+DOMAIN-SUFFIX,vsread.com
 DOMAIN-SUFFIX,vvstc.com
 DOMAIN-SUFFIX,vxo7tu.com
 DOMAIN-SUFFIX,vzuu.com
@@ -6904,6 +6922,7 @@ DOMAIN-SUFFIX,wzlib.cn
 DOMAIN-SUFFIX,wztsy.cn
 DOMAIN-SUFFIX,wztsy.com
 DOMAIN-SUFFIX,x-cloud.cc
+DOMAIN-SUFFIX,x-station.cn
 DOMAIN-SUFFIX,x315.com
 DOMAIN-SUFFIX,x9exk.cn
 DOMAIN-SUFFIX,xa-bank.com
@@ -7038,6 +7057,7 @@ DOMAIN-SUFFIX,xoyocdn.com
 DOMAIN-SUFFIX,xpgod.com
 DOMAIN-SUFFIX,xqfunds.com
 DOMAIN-SUFFIX,xqymuy.com
+DOMAIN-SUFFIX,xs.cn
 DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xsa239.com
 DOMAIN-SUFFIX,xsbapp.cn
@@ -7373,6 +7393,7 @@ DOMAIN-SUFFIX,zhuanzfx.com
 DOMAIN-SUFFIX,zhuanzhuan.com
 DOMAIN-SUFFIX,zhuayoukong.com
 DOMAIN-SUFFIX,zhubajie.com
+DOMAIN-SUFFIX,zhulang.com
 DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,zhuoyuegame.com
 DOMAIN-SUFFIX,zhuye.kim
@@ -7427,6 +7448,7 @@ DOMAIN-SUFFIX,zsxq.com
 DOMAIN-SUFFIX,zszq.com
 DOMAIN-SUFFIX,zt-express.com
 DOMAIN-SUFFIX,zte.com.cn
+DOMAIN-SUFFIX,ztedevices.com
 DOMAIN-SUFFIX,ztemall.com
 DOMAIN-SUFFIX,ztems.com
 DOMAIN-SUFFIX,ztfsec.com
@@ -7450,6 +7472,7 @@ DOMAIN-SUFFIX,zuk.cn
 DOMAIN-SUFFIX,zuk.com
 DOMAIN-SUFFIX,zuk.com.cn
 DOMAIN-SUFFIX,zuodao.com
+DOMAIN-SUFFIX,zuowen.com
 DOMAIN-SUFFIX,zuowen8.com
 DOMAIN-SUFFIX,zuowenwang.net
 DOMAIN-SUFFIX,zuoyebang.cc
@@ -7466,28 +7489,28 @@ DOMAIN-SUFFIX,zyhe.com.cn
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
-# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
 # Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
+# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
