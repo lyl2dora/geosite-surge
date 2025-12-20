@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-amazon.srs
-# Total rules: 233
+# Total rules: 234
 #
 
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,aws-border.cn
 DOMAIN-SUFFIX,aws-icp-domain-manager.cn
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,aws.com
+DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,awsapprunner.com
 DOMAIN-SUFFIX,awsapps.cn
 DOMAIN-SUFFIX,awsapps.com
