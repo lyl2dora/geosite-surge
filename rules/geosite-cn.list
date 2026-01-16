@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 7785
+# Total rules: 7799
 #
 
 DOMAIN,265.com
@@ -1297,6 +1297,7 @@ DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
 DOMAIN-SUFFIX,alogs.umeng.com
 DOMAIN-SUFFIX,alogus.umeng.com
+DOMAIN-SUFFIX,alookweb.com
 DOMAIN-SUFFIX,aloys233.top
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,alyms.cn
@@ -2441,6 +2442,7 @@ DOMAIN-SUFFIX,cmcmcdn.com
 DOMAIN-SUFFIX,cmf.biz
 DOMAIN-SUFFIX,cmf.ltd
 DOMAIN-SUFFIX,cmfchina.com
+DOMAIN-SUFFIX,cmft.com.cn
 DOMAIN-SUFFIX,cmfunds.cn
 DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,cmicrwx.cn
@@ -2714,6 +2716,8 @@ DOMAIN-SUFFIX,dccnet.com.cn
 DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dcdkjx.com
 DOMAIN-SUFFIX,dcg.microsoft.com
+DOMAIN-SUFFIX,dcloud.io
+DOMAIN-SUFFIX,dcloud.net.cn
 DOMAIN-SUFFIX,dcloudlive.com
 DOMAIN-SUFFIX,dcloudlive.net
 DOMAIN-SUFFIX,dcloudsp.com
@@ -2940,6 +2944,8 @@ DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,duba.com
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,dui.ai
+DOMAIN-SUFFIX,dui88.com
+DOMAIN-SUFFIX,duiba.com.cn
 DOMAIN-SUFFIX,duiopen.com
 DOMAIN-SUFFIX,duiou.com.cn
 DOMAIN-SUFFIX,duitang.com
@@ -3774,6 +3780,7 @@ DOMAIN-SUFFIX,houdao.com
 DOMAIN-SUFFIX,houyicaiji.com
 DOMAIN-SUFFIX,houyuantuan.com
 DOMAIN-SUFFIX,howbuy.com
+DOMAIN-SUFFIX,hpplay.cn
 DOMAIN-SUFFIX,hpstore.cn
 DOMAIN-SUFFIX,hq-tracking.qq.com
 DOMAIN-SUFFIX,hqchip.com
@@ -4711,6 +4718,7 @@ DOMAIN-SUFFIX,lawxp.com
 DOMAIN-SUFFIX,lawyee.org
 DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,lazycat.cloud
+DOMAIN-SUFFIX,lbtp.com
 DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,lckfb.com
 DOMAIN-SUFFIX,lczq.com
@@ -4724,6 +4732,9 @@ DOMAIN-SUFFIX,leanote.com
 DOMAIN-SUFFIX,learnywhere.cn
 DOMAIN-SUFFIX,learnywhere.com.cn
 DOMAIN-SUFFIX,leautolink.com
+DOMAIN-SUFFIX,lebo.cn
+DOMAIN-SUFFIX,lebo.com.cn
+DOMAIN-SUFFIX,lebo.top
 DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,lecloudapi.com
 DOMAIN-SUFFIX,ledu.com
@@ -5074,6 +5085,7 @@ DOMAIN-SUFFIX,minsio.cn
 DOMAIN-SUFFIX,mipay.com
 DOMAIN-SUFFIX,mipcache.bdstatic.com
 DOMAIN-SUFFIX,mipcdn.com
+DOMAIN-SUFFIX,mirrorcast.cn
 DOMAIN-SUFFIX,mirrors.yun-idc.com
 DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,missjia.net
@@ -5554,6 +5566,7 @@ DOMAIN-SUFFIX,pintu360.com
 DOMAIN-SUFFIX,pinyin.cn
 DOMAIN-SUFFIX,pipaw.com
 DOMAIN-SUFFIX,pipaw.net
+DOMAIN-SUFFIX,pipi.cn
 DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,pipixiaha.com
 DOMAIN-SUFFIX,pishu.com.cn
@@ -7176,6 +7189,7 @@ DOMAIN-SUFFIX,x315.com
 DOMAIN-SUFFIX,x9exk.cn
 DOMAIN-SUFFIX,xa-bank.com
 DOMAIN-SUFFIX,xafc.com
+DOMAIN-SUFFIX,xbext.com
 DOMAIN-SUFFIX,xbiao.com
 DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,xcsc.com
@@ -7763,28 +7777,28 @@ DOMAIN-SUFFIX,zyhe.com.cn
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
-# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
-# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
-# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 # Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
-# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
 # Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
+# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
+# Regex rule not directly supported: \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+# Regex rule not directly supported: \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
