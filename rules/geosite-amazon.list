@@ -1,20 +1,10 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-amazon.srs
-# Total rules: 234
+# Total rules: 223
 #
 
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net
-DOMAIN,d22qjgkvxw22r6.cloudfront.net
-DOMAIN,d25xi40x97liuc.cloudfront.net
-DOMAIN,d27xxe7juh1us6.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,images-cn-8.ssl-images-amazon.com
 DOMAIN,images-cn.ssl-images-amazon.com
-DOMAIN,images-eu.ssl-images-amazon.com
-DOMAIN,images-fe.ssl-images-amazon.com
-DOMAIN,images-na.ssl-images-amazon.com
-DOMAIN,msh.amazon.co.uk
-DOMAIN,static.siege-amazon.com
 DOMAIN-SUFFIX,.amazon
 DOMAIN-SUFFIX,.aws
 DOMAIN-SUFFIX,.imdb
@@ -215,7 +205,6 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
-DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
 DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,sagemaker.com.cn
 DOMAIN-SUFFIX,serving-sys.com
@@ -234,6 +223,6 @@ DOMAIN-SUFFIX,wholeplanetfoundation.org
 DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,yamaxun.com
 DOMAIN-SUFFIX,z.cn
+# Regex rule not directly supported: .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
