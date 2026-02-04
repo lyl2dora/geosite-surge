@@ -31,3 +31,5 @@ https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-connect
 https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-amazon.srs
 
 https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-anthropic.srs
+
+https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-google-gemini.srs
