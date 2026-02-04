@@ -1,0 +1,11 @@
+# Surge Rule Set
+# Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-anthropic.srs
+# Total rules: 6
+#
+
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
