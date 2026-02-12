@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-microsoft@cn.srs
-# Total rules: 168
+# Total rules: 169
 #
 
 DOMAIN,b.c2r.ts.cdn.office.net
@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,b3itech.cn
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,blueaggrestore.com
 DOMAIN-SUFFIX,bluecloudprod.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,cegid-cloud.cn
 DOMAIN-SUFFIX,chinacloud-mobile.cn
 DOMAIN-SUFFIX,chinacloudapi.cn
