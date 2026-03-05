@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-apple@cn.srs
-# Total rules: 289
+# Total rules: 290
 #
 
 DOMAIN,a1.mzstatic.com
@@ -271,6 +271,7 @@ DOMAIN-SUFFIX,ecgapp.com.cn
 DOMAIN-SUFFIX,faceshift.cn
 DOMAIN-SUFFIX,homepod.cn
 DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
