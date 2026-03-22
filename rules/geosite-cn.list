@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 7895
+# Total rules: 7893
 #
 
 DOMAIN,265.com
@@ -3142,10 +3142,8 @@ DOMAIN-SUFFIX,erp321.com
 DOMAIN-SUFFIX,erp321.net
 DOMAIN-SUFFIX,ersjk.com
 DOMAIN-SUFFIX,esp8266.cn
-DOMAIN-SUFFIX,esp8266.com
 DOMAIN-SUFFIX,esp8266.com.cn
 DOMAIN-SUFFIX,espressif.cn
-DOMAIN-SUFFIX,espressif.com
 DOMAIN-SUFFIX,espressif.com.cn
 DOMAIN-SUFFIX,essence.com.cn
 DOMAIN-SUFFIX,essurl.com
@@ -7887,14 +7885,14 @@ DOMAIN-SUFFIX,zyhe.com.cn
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
-# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
