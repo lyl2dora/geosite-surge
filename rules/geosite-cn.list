@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 7920
+# Total rules: 7922
 #
 
 DOMAIN,265.com
@@ -5925,6 +5925,7 @@ DOMAIN-SUFFIX,qzone.com
 DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,r8zc9.cn
 DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,rainyun.com
 DOMAIN-SUFFIX,razerapi.com
 DOMAIN-SUFFIX,razersynapse.com
 DOMAIN-SUFFIX,razerzone.com
@@ -6372,6 +6373,7 @@ DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,sz-jlc.com
 DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,szfw.org
+DOMAIN-SUFFIX,szhdy.com
 DOMAIN-SUFFIX,szhk.com
 DOMAIN-SUFFIX,szjlc.cn
 DOMAIN-SUFFIX,szlcsc.com
@@ -7912,14 +7914,14 @@ DOMAIN-SUFFIX,zyhe.com.cn
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
-# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
