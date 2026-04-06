@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-connectivity-check.srs
-# Total rules: 14
+# Total rules: 17
 #
 
 DOMAIN,connect.rom.miui.com
@@ -13,7 +13,10 @@ DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,cp.cloudflare.com
 DOMAIN-SUFFIX,detectportal.firefox.com
+DOMAIN-SUFFIX,ipv6check-http.steamserver.net
+DOMAIN-SUFFIX,ipv6check-udp.steamserver.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,network-test.debian.org
 DOMAIN-SUFFIX,networkcheck.kde.org
+DOMAIN-SUFFIX,test.steampowered.com
