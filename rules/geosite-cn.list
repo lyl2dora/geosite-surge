@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 8054
+# Total rules: 8055
 #
 
 DOMAIN,265.com
@@ -197,6 +197,8 @@ DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,edge.geo.kaspersky.com
 DOMAIN,emmapplecodevice.googleapis.com
 DOMAIN,emoi-cncdn.bing.com
+DOMAIN,end-api.shallow.ink
+DOMAIN,end.shallow.ink
 DOMAIN,enrichgw.10010.com
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN,experiments.apple.com
@@ -1558,6 +1560,7 @@ DOMAIN-SUFFIX,azuremresolver.cn
 DOMAIN-SUFFIX,azureprivatedns.cn
 DOMAIN-SUFFIX,azurerms.cn
 DOMAIN-SUFFIX,azuresandbox.cn
+DOMAIN-SUFFIX,azz.net
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,b2bgo.com
 DOMAIN-SUFFIX,b2byao.com
@@ -3346,7 +3349,6 @@ DOMAIN-SUFFIX,flyme.cn
 DOMAIN-SUFFIX,flyme.com
 DOMAIN-SUFFIX,flymeauto.com
 DOMAIN-SUFFIX,fm365.com
-DOMAIN-SUFFIX,fm3838.com
 DOMAIN-SUFFIX,fnjiasu.com
 DOMAIN-SUFFIX,fnnas.com
 DOMAIN-SUFFIX,fnnas.net
@@ -4025,6 +4027,7 @@ DOMAIN-SUFFIX,huoshanxiaoshipin.net
 DOMAIN-SUFFIX,huoshanzhibo.cn
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,huoshanzhibo.net
+DOMAIN-SUFFIX,huotan.net
 DOMAIN-SUFFIX,hupu.com
 DOMAIN-SUFFIX,hupucdn.com
 DOMAIN-SUFFIX,hupun.com
@@ -4243,6 +4246,7 @@ DOMAIN-SUFFIX,ipanda.net
 DOMAIN-SUFFIX,ipchaxun.com
 DOMAIN-SUFFIX,ipchaxun.net
 DOMAIN-SUFFIX,iphone-8.com.cn
+DOMAIN-SUFFIX,ipify.cn
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,iplark.com
 DOMAIN-SUFFIX,iplaysoft.com
@@ -4851,7 +4855,6 @@ DOMAIN-SUFFIX,larksuiteimg-boe.com
 DOMAIN-SUFFIX,larksuiteimg-pre.com
 DOMAIN-SUFFIX,larksuiteimg.com
 DOMAIN-SUFFIX,larkvc.com
-DOMAIN-SUFFIX,larsonlimited.com
 DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,lascn.net
 DOMAIN-SUFFIX,latepost.com
@@ -7994,8 +7997,6 @@ DOMAIN-SUFFIX,zofund.com
 DOMAIN-SUFFIX,zol-img.com.cn
 DOMAIN-SUFFIX,zol.com.cn
 DOMAIN-SUFFIX,zongheng.com
-DOMAIN-SUFFIX,zoom3g.com
-DOMAIN-SUFFIX,zoomyou.cn
 DOMAIN-SUFFIX,zpb365.com
 DOMAIN-SUFFIX,zqrb.cn
 DOMAIN-SUFFIX,zs-jlc.com
@@ -8046,14 +8047,14 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
