@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 8113
+# Total rules: 8128
 #
 
 DOMAIN,265.com
@@ -2065,6 +2065,7 @@ DOMAIN-SUFFIX,cctvlibrary.com.cn
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,cctvpro.cn
 DOMAIN-SUFFIX,cctvpro.com.cn
+DOMAIN-SUFFIX,ccw.site
 DOMAIN-SUFFIX,cczq.com
 DOMAIN-SUFFIX,cczq.net
 DOMAIN-SUFFIX,cd120.com
@@ -3480,6 +3481,7 @@ DOMAIN-SUFFIX,funnycore.com
 DOMAIN-SUFFIX,funshion.com
 DOMAIN-SUFFIX,funshion.net
 DOMAIN-SUFFIX,furamc.com.cn
+DOMAIN-SUFFIX,fussengroup.com
 DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futuniuniu.com
 DOMAIN-SUFFIX,futunn.com
@@ -3642,8 +3644,10 @@ DOMAIN-SUFFIX,golinkcn.com
 DOMAIN-SUFFIX,golue.com
 DOMAIN-SUFFIX,gongqingyun.cn
 DOMAIN-SUFFIX,gongxiangcj.com
+DOMAIN-SUFFIX,gongxiangjizhang.com
 DOMAIN-SUFFIX,gongyi.xin
 DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,goofish.pro
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,googlecnapps.cn
 DOMAIN-SUFFIX,goosail.com
@@ -4089,6 +4093,7 @@ DOMAIN-SUFFIX,hwht.cn
 DOMAIN-SUFFIX,hwocloud.com
 DOMAIN-SUFFIX,hwshu.com
 DOMAIN-SUFFIX,hwtrip.com
+DOMAIN-SUFFIX,hwwlyz.com
 DOMAIN-SUFFIX,hwwt8.com
 DOMAIN-SUFFIX,hx168.com.cn
 DOMAIN-SUFFIX,hxb.com.cn
@@ -4247,6 +4252,7 @@ DOMAIN-SUFFIX,incopat.com
 DOMAIN-SUFFIX,indienova.com
 DOMAIN-SUFFIX,inewsweek.cn
 DOMAIN-SUFFIX,infineon.cn
+DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,infoqstatic.com
@@ -4995,6 +5001,7 @@ DOMAIN-SUFFIX,lingkou.xyz
 DOMAIN-SUFFIX,linglong.space
 DOMAIN-SUFFIX,linglonglife.com
 DOMAIN-SUFFIX,lingshoujia.com
+DOMAIN-SUFFIX,linka2a.net
 DOMAIN-SUFFIX,linkvans.com
 DOMAIN-SUFFIX,linliyz.com
 DOMAIN-SUFFIX,linsn.com
@@ -5232,6 +5239,7 @@ DOMAIN-SUFFIX,miaomiaoz.com
 DOMAIN-SUFFIX,miaomiaozhe.com
 DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,miaostreet.com
+DOMAIN-SUFFIX,miaotixing.com
 DOMAIN-SUFFIX,miaowu.baidu.com
 DOMAIN-SUFFIX,miaoyanai.com
 DOMAIN-SUFFIX,miaozhen.com
@@ -6247,6 +6255,7 @@ DOMAIN-SUFFIX,shellpub.com
 DOMAIN-SUFFIX,shelter-china.com
 DOMAIN-SUFFIX,shelterdome.net
 DOMAIN-SUFFIX,shengdaosoft.com
+DOMAIN-SUFFIX,shengqugames.com
 DOMAIN-SUFFIX,shengyi.ai
 DOMAIN-SUFFIX,shengyizhuanjia.com
 DOMAIN-SUFFIX,shenjing.com
@@ -6505,6 +6514,8 @@ DOMAIN-SUFFIX,surerp.cn
 DOMAIN-SUFFIX,surerp.com
 DOMAIN-SUFFIX,sursung.cn
 DOMAIN-SUFFIX,sursung.com
+DOMAIN-SUFFIX,suu-fun.com
+DOMAIN-SUFFIX,suufun.com
 DOMAIN-SUFFIX,suzuki-china.com
 DOMAIN-SUFFIX,swhysc.com
 DOMAIN-SUFFIX,swiftui.cn
@@ -6942,6 +6953,7 @@ DOMAIN-SUFFIX,ttgslb.com
 DOMAIN-SUFFIX,ttgtm.com
 DOMAIN-SUFFIX,ttjisu.com
 DOMAIN-SUFFIX,ttpod.com
+DOMAIN-SUFFIX,ttshitu.com
 DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-SUFFIX,ttxsapp.com.cn
 DOMAIN-SUFFIX,tudou.com
@@ -7665,6 +7677,7 @@ DOMAIN-SUFFIX,xxtmail.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,xywy.com
+DOMAIN-SUFFIX,xyys.com
 DOMAIN-SUFFIX,xyzcdn.net
 DOMAIN-SUFFIX,xyzfm.link
 DOMAIN-SUFFIX,xyzfm.space
@@ -7681,6 +7694,7 @@ DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,yaolan.com
 DOMAIN-SUFFIX,yaoyl.com
 DOMAIN-SUFFIX,yaozh.com
+DOMAIN-SUFFIX,yayi360.com
 DOMAIN-SUFFIX,ybccode.com
 DOMAIN-SUFFIX,yccdn.com
 DOMAIN-SUFFIX,ycgame.com
@@ -8042,6 +8056,7 @@ DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zjfcdn.com
 DOMAIN-SUFFIX,zjgslb.com
 DOMAIN-SUFFIX,zjlib.cn
+DOMAIN-SUFFIX,zjshulong.com
 DOMAIN-SUFFIX,zjstv.com
 DOMAIN-SUFFIX,zjytxd.cn
 DOMAIN-SUFFIX,zjytxp.cn
@@ -8105,14 +8120,14 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
 # Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
+# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
