@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 8128
+# Total rules: 8110
 #
 
 DOMAIN,265.com
@@ -123,12 +123,10 @@ DOMAIN,cn-smp-paymentservices.apple.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,cn.widevine.com
 DOMAIN,cn.windowssearch.com
-DOMAIN,cnappinstall.googleadapis.com
 DOMAIN,communities.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
 DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,content.googleadapis.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
@@ -187,7 +185,6 @@ DOMAIN,doubleclick.net
 DOMAIN,download.developer.apple.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.mlcc.google.com
-DOMAIN,download.qatp1.net
 DOMAIN,download.tensorflow.google.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloaddispatch.itunes.apple.com
@@ -195,7 +192,6 @@ DOMAIN,ea2cn-dev-outlet.dell.com
 DOMAIN,ea2cn-prod-outlet.dell.com
 DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,edge.geo.kaspersky.com
-DOMAIN,emmapplecodevice.googleapis.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -220,7 +216,6 @@ DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
 DOMAIN,gbxgateway-dev.dell.com
 DOMAIN,gbxgateway.dell.com
-DOMAIN,go.corp.google.com
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,gog-cdn.akamaized.net
 DOMAIN,gog.qtlglb.com
@@ -344,16 +339,12 @@ DOMAIN,ksn-url-geo.kaspersky-labs.com
 DOMAIN,ksn-url.geoksn.kaspersky.com
 DOMAIN,ksn-verdict-geo.kaspersky-labs.com
 DOMAIN,ksn-verdict.geoksn.kaspersky.com
-DOMAIN,l2-uberproxy.corp.google.com
 DOMAIN,learn.microsoft.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,log3-applog-hl.fqnovel.com
 DOMAIN,log3-applog.fqnovel.com
 DOMAIN,log5-applog-hl.fqnovel.com
 DOMAIN,log5-applog.fqnovel.com
-DOMAIN,logger-dev.corp.google.com
-DOMAIN,logger.corp.google.com
-DOMAIN,login.corp.google.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,maps.apple.com
 DOMAIN,mdr.ksn.kaspersky-labs.com
@@ -363,7 +354,6 @@ DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mesu.apple.com
 DOMAIN,misc-assets.itunes.apple.com
 DOMAIN,ml.cdn-apple.com
-DOMAIN,monitoring.qpdp1.net
 DOMAIN,moocs.unipus.cn
 DOMAIN,music.apple.com
 DOMAIN,musicstatus.music.apple.com
@@ -451,16 +441,9 @@ DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod-support.apple-support.akadns.net
 DOMAIN,prod.databe.floonet.goog
 DOMAIN,productcard.gog-statics.com
-DOMAIN,proxyconfig.corp.google.com
 DOMAIN,publicassets.cdn-apple.com
-DOMAIN,qagpublic.qatp1.net
-DOMAIN,qgadmin.qcpp1.net
 DOMAIN,qiao-cn.com
 DOMAIN,qpx.googleflights.net
-DOMAIN,qualysapi.qatp1.net
-DOMAIN,qualysguard.qpdp1.net
-DOMAIN,r.cert.corp.google.com
-DOMAIN,rapture-prod.corp.google.com
 DOMAIN,recaptcha-cn.net
 DOMAIN,recaptcha.net
 DOMAIN,redirector.bdn.dev
@@ -510,7 +493,6 @@ DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
-DOMAIN,scanservice1.qcpp1.net
 DOMAIN,scene7-cdn.dell.com
 DOMAIN,sdx.microsoft.com
 DOMAIN,se-edge.itunes.apple.com
@@ -536,7 +518,6 @@ DOMAIN,speedysub.music.apple.com
 DOMAIN,ss.bjmu.edu.cn
 DOMAIN,ssl-google-analytics.l.google.com
 DOMAIN,ssl.gstatic.com
-DOMAIN,sslredirect.corp.google.com
 DOMAIN,st-bak.viv.wanwang.space
 DOMAIN,staging-controlbe.floonet.goog
 DOMAIN,staging-databe.floonet.goog
@@ -552,15 +533,9 @@ DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,store.storeimages.apple.com.akadns.net
 DOMAIN,store.storeimages.cdn-apple.com
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
-DOMAIN,streaming-uberproxy-rotation.corp.google.com
-DOMAIN,streaming-uberproxy.corp.google.com
 DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN,study.163.com
 DOMAIN,su.itunes.apple.com
-DOMAIN,sup-ssh-relay.corp.google.com
-DOMAIN,sup-ssh-relay2.corp.google.com
-DOMAIN,sup.corp.google.com
-DOMAIN,sup.l.google.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.apple.com
 DOMAIN,supportassist.dell.com
@@ -578,7 +553,6 @@ DOMAIN,swscan.apple.com
 DOMAIN,sylvan.apple.com
 DOMAIN,sync.itunes.apple.com
 DOMAIN,tac.googleapis.com
-DOMAIN,test.gbugs-qa.chromium.org
 DOMAIN,tf-feedback.itunes.apple.com
 DOMAIN,time.amazonaws.cn
 DOMAIN,time.izatcloud.net
@@ -586,12 +560,8 @@ DOMAIN,time.xtracloud.net
 DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,tools.google.com
-DOMAIN,tools.l.google.com
 DOMAIN,tp.louisvuitton.com
 DOMAIN,trts.baishancdnx.cn
-DOMAIN,uberproxy-debug4.corp.google.com
-DOMAIN,uberproxy.corp.google.com
-DOMAIN,uberproxy6.corp.google.com
 DOMAIN,ubisoftconnect.eo-edgefunctions7.com
 DOMAIN,universal-activity-service.itunes.apple.com
 DOMAIN,update.crashlytics.com
@@ -630,7 +600,6 @@ DOMAIN,www.pxcc.com
 DOMAIN,www.recaptcha.net
 DOMAIN,www.support.apple.com
 DOMAIN,www4-static.gog-statics.com
-DOMAIN,xn--flw351e.com
 DOMAIN,xp.apple.com
 DOMAIN,xtratime.qcomgeo2.com
 DOMAIN,xz.pphimalayanrt.com
@@ -688,6 +657,7 @@ DOMAIN-SUFFIX,12315.cn
 DOMAIN-SUFFIX,12321.cn
 DOMAIN-SUFFIX,123245.com
 DOMAIN-SUFFIX,123254.com
+DOMAIN-SUFFIX,123278.com
 DOMAIN-SUFFIX,123294.com
 DOMAIN-SUFFIX,1234567.com.cn
 DOMAIN-SUFFIX,123624.com
@@ -917,6 +887,7 @@ DOMAIN-SUFFIX,51jobcdn.com
 DOMAIN-SUFFIX,51kim.com
 DOMAIN-SUFFIX,51meishu.com
 DOMAIN-SUFFIX,51nod.com
+DOMAIN-SUFFIX,51pptmoban.com
 DOMAIN-SUFFIX,51selling.com
 DOMAIN-SUFFIX,51sole.com
 DOMAIN-SUFFIX,51togic.com
@@ -1357,6 +1328,7 @@ DOMAIN-SUFFIX,amazonnow.cn
 DOMAIN-SUFFIX,amazonnow.com.cn
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,amazonwebservices.cn
 DOMAIN-SUFFIX,amazonwebservices.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com.cn
@@ -1393,6 +1365,8 @@ DOMAIN-SUFFIX,anmo.com
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anquanke.com
 DOMAIN-SUFFIX,anruan.com
+DOMAIN-SUFFIX,antafu.com
+DOMAIN-SUFFIX,antaq.com
 DOMAIN-SUFFIX,antfin.com
 DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,antgroup-inc.cn
@@ -2776,6 +2750,7 @@ DOMAIN-SUFFIX,danjuanfunds.com
 DOMAIN-SUFFIX,dao123.com
 DOMAIN-SUFFIX,daocloud.io
 DOMAIN-SUFFIX,daocloud.vip
+DOMAIN-SUFFIX,daodoc.com
 DOMAIN-SUFFIX,daojia.com
 DOMAIN-SUFFIX,daovoice.io
 DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
@@ -3638,6 +3613,7 @@ DOMAIN-SUFFIX,gogokid.com
 DOMAIN-SUFFIX,gogokid.com.cn
 DOMAIN-SUFFIX,goka.top
 DOMAIN-SUFFIX,gold678.com
+DOMAIN-SUFFIX,goldhoe.com
 DOMAIN-SUFFIX,golink.com
 DOMAIN-SUFFIX,golinkapi.com
 DOMAIN-SUFFIX,golinkcn.com
@@ -4502,6 +4478,7 @@ DOMAIN-SUFFIX,jikexueyuan.com
 DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,jin10.com
 DOMAIN-SUFFIX,jinantimes.com.cn
+DOMAIN-SUFFIX,jinchutou.com
 DOMAIN-SUFFIX,jindidata.com
 DOMAIN-SUFFIX,jingdong.com
 DOMAIN-SUFFIX,jingdongjinrong.com
@@ -6151,6 +6128,7 @@ DOMAIN-SUFFIX,saayaa.com
 DOMAIN-SUFFIX,saduck.top
 DOMAIN-SUFFIX,saee.org.cn
 DOMAIN-SUFFIX,safeskill.cn
+DOMAIN-SUFFIX,safewk.com
 DOMAIN-SUFFIX,sagemaker.com.cn
 DOMAIN-SUFFIX,saibo.com
 DOMAIN-SUFFIX,samasty.com
@@ -6577,6 +6555,7 @@ DOMAIN-SUFFIX,taobao.org
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taobizhong.com
 DOMAIN-SUFFIX,taoche.com
+DOMAIN-SUFFIX,taodocs.com
 DOMAIN-SUFFIX,taomee.com
 DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,taou.com
@@ -7358,6 +7337,7 @@ DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,welltrend-edu.com
 DOMAIN-SUFFIX,wenjuan.com
 DOMAIN-SUFFIX,wenkeju.com
+DOMAIN-SUFFIX,wenkub.com
 DOMAIN-SUFFIX,wenmingban.com
 DOMAIN-SUFFIX,wenshushu.cn
 DOMAIN-SUFFIX,wenshushu.com
@@ -7485,6 +7465,7 @@ DOMAIN-SUFFIX,wuming.com
 DOMAIN-SUFFIX,wuuxiang.com
 DOMAIN-SUFFIX,wuximediaglobal.com
 DOMAIN-SUFFIX,wuyou.net
+DOMAIN-SUFFIX,wxaurl.cn
 DOMAIN-SUFFIX,wxcloudrun.com
 DOMAIN-SUFFIX,wxdw.top
 DOMAIN-SUFFIX,wxgateway.com
@@ -7995,6 +7976,7 @@ DOMAIN-SUFFIX,zhihang100.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,zhijidoc.com
 DOMAIN-SUFFIX,zhiliaowenda.com.cn
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
@@ -8120,14 +8102,14 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
-# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 # Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
+# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
+# Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
