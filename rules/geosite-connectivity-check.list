@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-connectivity-check.srs
-# Total rules: 28
+# Total rules: 27
 #
 
 DOMAIN,conn1.oppomobile.com
@@ -17,7 +17,6 @@ DOMAIN,nmcheck.gnome.org
 DOMAIN,ping.archlinux.org
 DOMAIN,redirect.archlinux.org
 DOMAIN,wifi.vivo.com.cn
-DOMAIN,www.google.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.qualcomm.cn
 DOMAIN,www.qualcomm.com
