@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 8258
+# Total rules: 8257
 #
 
 DOMAIN,265.com
@@ -3580,6 +3580,7 @@ DOMAIN-SUFFIX,gdliontech.com
 DOMAIN-SUFFIX,gdrc.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,geektool.top
 DOMAIN-SUFFIX,geely.com
@@ -4291,8 +4292,7 @@ DOMAIN-SUFFIX,inewsweek.cn
 DOMAIN-SUFFIX,infineon.cn
 DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,infinitynewtab.com
-DOMAIN-SUFFIX,infoq.com
-DOMAIN-SUFFIX,infoqstatic.com
+DOMAIN-SUFFIX,infoq.cn
 DOMAIN-SUFFIX,inftab.com
 DOMAIN-SUFFIX,ingka-dt.cn
 DOMAIN-SUFFIX,ingka-internal.cn
@@ -4314,7 +4314,6 @@ DOMAIN-SUFFIX,intsig.net
 DOMAIN-SUFFIX,ioppo.com.cn
 DOMAIN-SUFFIX,ioppo.net
 DOMAIN-SUFFIX,iotronic.tech
-DOMAIN-SUFFIX,ip-cdn.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,ipanda.com
@@ -8250,14 +8249,14 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: ^images(-\d)?\.gog-statics\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^gog-cdn-.+\.footprint\.net$
+# Regex rule not directly supported: ^cdn-akamai-.+\.gog-services\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
