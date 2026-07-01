@@ -4876,6 +4876,7 @@ DOMAIN-SUFFIX,kijijidns.com.cn
 DOMAIN-SUFFIX,kimg.cn
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,kimiss.com
+DOMAIN-SUFFIX,kimxz.com
 DOMAIN-SUFFIX,kindle.cn
 DOMAIN-SUFFIX,kindleoasis.cn
 DOMAIN-SUFFIX,kindleoasis.com.cn
@@ -4922,7 +4923,6 @@ DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ks-live.com
 DOMAIN-SUFFIX,ksapisrv.com
-DOMAIN-SUFFIX,kscord.com
 DOMAIN-SUFFIX,kshbank.cn
 DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,ksmobile.com
@@ -8465,11 +8465,11 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
+# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
