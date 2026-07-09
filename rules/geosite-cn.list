@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 8659
+# Total rules: 8681
 #
 
 DOMAIN,2mdn-cn.net
@@ -1456,6 +1456,7 @@ DOMAIN-SUFFIX,anytocopy.com
 DOMAIN-SUFFIX,anywlan.com
 DOMAIN-SUFFIX,anzhuo.cn
 DOMAIN-SUFFIX,aocde.com
+DOMAIN-SUFFIX,aorizon.cn
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,aoshu.com
 DOMAIN-SUFFIX,aotrip.net
@@ -2513,6 +2514,7 @@ DOMAIN-SUFFIX,ciweimao.com
 DOMAIN-SUFFIX,cjjd19.com
 DOMAIN-SUFFIX,cjol.com
 DOMAIN-SUFFIX,cjsc.com
+DOMAIN-SUFFIX,cjyun.org
 DOMAIN-SUFFIX,ckd.im
 DOMAIN-SUFFIX,ckxx.net
 DOMAIN-SUFFIX,clawhub-mirror.com
@@ -3994,6 +3996,8 @@ DOMAIN-SUFFIX,hapipixia.com
 DOMAIN-SUFFIX,hapiyixia.com
 DOMAIN-SUFFIX,hapjs.org
 DOMAIN-SUFFIX,happyhlddz.com
+DOMAIN-SUFFIX,happyhorse.cn
+DOMAIN-SUFFIX,happyshrimp.cn
 DOMAIN-SUFFIX,harmonyos.com
 DOMAIN-SUFFIX,haydaypop.cn
 DOMAIN-SUFFIX,hazq.com
@@ -4318,6 +4322,7 @@ DOMAIN-SUFFIX,hxnews.com
 DOMAIN-SUFFIX,hxsd.com
 DOMAIN-SUFFIX,hxzq.cn
 DOMAIN-SUFFIX,hybiome.com
+DOMAIN-SUFFIX,hydun.com
 DOMAIN-SUFFIX,hypercachenet.com
 DOMAIN-SUFFIX,hypercachenode.com
 DOMAIN-SUFFIX,hytung.cn
@@ -5011,6 +5016,7 @@ DOMAIN-SUFFIX,kouclo.com
 DOMAIN-SUFFIX,koudai.com
 DOMAIN-SUFFIX,koudai8.com
 DOMAIN-SUFFIX,kq7.com
+DOMAIN-SUFFIX,krcom.cn
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ks-live.com
@@ -5316,6 +5322,7 @@ DOMAIN-SUFFIX,lnlib.net
 DOMAIN-SUFFIX,local-ip.online
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,lofter.httpdns.c.163.com
+DOMAIN-SUFFIX,log-global.aliyuncs.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,log.hunantv.com
 DOMAIN-SUFFIX,log.mix.sina.com.cn
@@ -5339,6 +5346,7 @@ DOMAIN-SUFFIX,lorhf.com
 DOMAIN-SUFFIX,lotpc.com
 DOMAIN-SUFFIX,louisvuitton.cn
 DOMAIN-SUFFIX,loupan.com
+DOMAIN-SUFFIX,lovestu.com
 DOMAIN-SUFFIX,lpl.com.cn
 DOMAIN-SUFFIX,lppz.com
 DOMAIN-SUFFIX,lppzimg.com
@@ -5859,6 +5867,8 @@ DOMAIN-SUFFIX,nikerunclub.cn
 DOMAIN-SUFFIX,nikerunclub.com.cn
 DOMAIN-SUFFIX,nikerunning.com.cn
 DOMAIN-SUFFIX,nikestore.cn
+DOMAIN-SUFFIX,nikkigames.cn
+DOMAIN-SUFFIX,nikkigames.com.cn
 DOMAIN-SUFFIX,ningtingche.com
 DOMAIN-SUFFIX,nintendolabo.cn
 DOMAIN-SUFFIX,nintendoswitch.cn
@@ -6063,6 +6073,8 @@ DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,panplayable-toutiao-b.com
 DOMAIN-SUFFIX,panplayable-toutiao.com
 DOMAIN-SUFFIX,paopaoche.net
+DOMAIN-SUFFIX,papegames.cn
+DOMAIN-SUFFIX,papegames.com
 DOMAIN-SUFFIX,papocket.com
 DOMAIN-SUFFIX,passport-log.youku.com
 DOMAIN-SUFFIX,paydxm.com
@@ -6709,6 +6721,7 @@ DOMAIN-SUFFIX,skysea.com
 DOMAIN-SUFFIX,skywt.cn
 DOMAIN-SUFFIX,sl916.com
 DOMAIN-SUFFIX,slbauto.com
+DOMAIN-SUFFIX,sleeplesshorizon.cn
 DOMAIN-SUFFIX,slk1.net
 DOMAIN-SUFFIX,sllssrq.com
 DOMAIN-SUFFIX,slog.sina.cn
@@ -6953,6 +6966,7 @@ DOMAIN-SUFFIX,talkingdata.com
 DOMAIN-SUFFIX,talkinggame.com
 DOMAIN-SUFFIX,tamaegis.com
 DOMAIN-SUFFIX,tangeche.com
+DOMAIN-SUFFIX,tanwan.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tao123.com
 DOMAIN-SUFFIX,taobao.com
@@ -7371,6 +7385,8 @@ DOMAIN-SUFFIX,tvcc.com.cn
 DOMAIN-SUFFIX,tvmao.com
 DOMAIN-SUFFIX,tvzhe.com
 DOMAIN-SUFFIX,twscholar.com
+DOMAIN-SUFFIX,twyx.cn
+DOMAIN-SUFFIX,twyxh.com
 DOMAIN-SUFFIX,tx-exhibition.com
 DOMAIN-SUFFIX,txbyod.com
 DOMAIN-SUFFIX,txidc.wang
@@ -7587,6 +7603,7 @@ DOMAIN-SUFFIX,vipexam.org
 DOMAIN-SUFFIX,vipmro.com
 DOMAIN-SUFFIX,vipmro.net
 DOMAIN-SUFFIX,vipstatic.com
+DOMAIN-SUFFIX,vistopia.com.cn
 DOMAIN-SUFFIX,viviv.com
 DOMAIN-SUFFIX,vivo.cn
 DOMAIN-SUFFIX,vivo.com
@@ -8149,6 +8166,7 @@ DOMAIN-SUFFIX,xpccdn.com
 DOMAIN-SUFFIX,xpgod.com
 DOMAIN-SUFFIX,xqfunds.com
 DOMAIN-SUFFIX,xqymuy.com
+DOMAIN-SUFFIX,xrbk.cn
 DOMAIN-SUFFIX,xs.cn
 DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xsa239.com
@@ -8219,6 +8237,8 @@ DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,yeshj.com
 DOMAIN-SUFFIX,yesky.com
+DOMAIN-SUFFIX,yeyou.com
+DOMAIN-SUFFIX,yeyoucdn.com
 DOMAIN-SUFFIX,yeyousg.com
 DOMAIN-SUFFIX,yfcache.com
 DOMAIN-SUFFIX,yfcalc.com
@@ -8594,6 +8614,7 @@ DOMAIN-SUFFIX,zjytxp.cn
 DOMAIN-SUFFIX,zjzs.net
 DOMAIN-SUFFIX,zjzsa.com
 DOMAIN-SUFFIX,zlfund.cn
+DOMAIN-SUFFIX,zlinkurl.cn
 DOMAIN-SUFFIX,zmengzhu.com
 DOMAIN-SUFFIX,zmifi.com
 DOMAIN-SUFFIX,zml81.cn
@@ -8642,6 +8663,7 @@ DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zvip.cn
 DOMAIN-SUFFIX,zway.top
+DOMAIN-SUFFIX,zx.com
 DOMAIN-SUFFIX,zxhgroup.com
 DOMAIN-SUFFIX,zxsales.cn
 DOMAIN-SUFFIX,zxxk.com
@@ -8654,11 +8676,11 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
