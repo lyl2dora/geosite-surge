@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 8681
+# Total rules: 8705
 #
 
 DOMAIN,2mdn-cn.net
@@ -1554,6 +1554,19 @@ DOMAIN-SUFFIX,autohome.tel
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autoimg.com.cn
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,aux-home.com
+DOMAIN-SUFFIX,auxauto.com.cn
+DOMAIN-SUFFIX,auxcss.com
+DOMAIN-SUFFIX,auxgroup.com
+DOMAIN-SUFFIX,auxshop.cn
+DOMAIN-SUFFIX,auxshop.com
+DOMAIN-SUFFIX,auxsmart.com.cn
+DOMAIN-SUFFIX,auxsol.com
+DOMAIN-SUFFIX,auxsolar.com.cn
+DOMAIN-SUFFIX,auxsolcloud.com
+DOMAIN-SUFFIX,auxtelecom.com
+DOMAIN-SUFFIX,auxwy.com
+DOMAIN-SUFFIX,auxyl.com
 DOMAIN-SUFFIX,avermedia.cn
 DOMAIN-SUFFIX,avicfund.cn
 DOMAIN-SUFFIX,avicsec.com
@@ -5776,7 +5789,12 @@ DOMAIN-SUFFIX,mysxl.cn
 DOMAIN-SUFFIX,myypark.com
 DOMAIN-SUFFIX,myyx618.com
 DOMAIN-SUFFIX,myzaker.com
+DOMAIN-SUFFIX,mzgjbj.com
 DOMAIN-SUFFIX,mzres.com
+DOMAIN-SUFFIX,mzyyfck.com
+DOMAIN-SUFFIX,mzyygb.com
+DOMAIN-SUFFIX,mzyygk.com
+DOMAIN-SUFFIX,mzyyzl.com
 DOMAIN-SUFFIX,n.cn
 DOMAIN-SUFFIX,n0q.cn
 DOMAIN-SUFFIX,nadianshi.com
@@ -5791,8 +5809,11 @@ DOMAIN-SUFFIX,narwaltech.com
 DOMAIN-SUFFIX,natfrp.com
 DOMAIN-SUFFIX,nattest-china.com
 DOMAIN-SUFFIX,nbd.com.cn
+DOMAIN-SUFFIX,nbmzyl.com
+DOMAIN-SUFFIX,nbmzyy.com
 DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
 DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
+DOMAIN-SUFFIX,nbyzfeyy.com
 DOMAIN-SUFFIX,ncss.cn
 DOMAIN-SUFFIX,ncss.org.cn
 DOMAIN-SUFFIX,ndcpp.com
@@ -6525,6 +6546,7 @@ DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,sanweihou.com
 DOMAIN-SUFFIX,sanwen.net
+DOMAIN-SUFFIX,sanxing.com
 DOMAIN-SUFFIX,sao.cn
 DOMAIN-SUFFIX,saolife.com
 DOMAIN-SUFFIX,saraba1st.com
@@ -6683,6 +6705,7 @@ DOMAIN-SUFFIX,shuqireader.com
 DOMAIN-SUFFIX,shuqistat.com
 DOMAIN-SUFFIX,shutcm.com
 DOMAIN-SUFFIX,shuxinyc.com
+DOMAIN-SUFFIX,shuyifuwu.com.cn
 DOMAIN-SUFFIX,shyhhema.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,shzq.com
@@ -6769,6 +6792,7 @@ DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,sojson.com
 DOMAIN-SUFFIX,sojump.com
 DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,solarcloud.top
 DOMAIN-SUFFIX,solidot.org
 DOMAIN-SUFFIX,somode.com
 DOMAIN-SUFFIX,sootoo.com
@@ -8676,11 +8700,11 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # Regex rule not directly supported: ^nis.+\.10010\.com$
