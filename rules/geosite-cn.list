@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 8782
+# Total rules: 8790
 #
 
 DOMAIN,2mdn-cn.net
@@ -3761,6 +3761,7 @@ DOMAIN-SUFFIX,ganjiangvpn.com
 DOMAIN-SUFFIX,ganjistatic1.com
 DOMAIN-SUFFIX,gaode.com
 DOMAIN-SUFFIX,gaodun.com
+DOMAIN-SUFFIX,gaojidata.com
 DOMAIN-SUFFIX,gaokao.com
 DOMAIN-SUFFIX,gaoshouyou.com
 DOMAIN-SUFFIX,gaoxiaojob.com
@@ -3977,6 +3978,7 @@ DOMAIN-SUFFIX,gxb.io
 DOMAIN-SUFFIX,gxtv.cn
 DOMAIN-SUFFIX,gxxmt.com
 DOMAIN-SUFFIX,gyzq.com.cn
+DOMAIN-SUFFIX,gzasc.com
 DOMAIN-SUFFIX,gzcqs.com
 DOMAIN-SUFFIX,gzctyiptv.cn
 DOMAIN-SUFFIX,gzlzfm.com
@@ -6483,6 +6485,8 @@ DOMAIN-SUFFIX,qunarzz.com
 DOMAIN-SUFFIX,qunjielong.com
 DOMAIN-SUFFIX,qunliao.info
 DOMAIN-SUFFIX,quyaoya.com
+DOMAIN-SUFFIX,qwapp.top
+DOMAIN-SUFFIX,qwdjapp.com
 DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,qweather.net
 DOMAIN-SUFFIX,qweatherapi.com
@@ -6557,6 +6561,8 @@ DOMAIN-SUFFIX,routewize.com
 DOMAIN-SUFFIX,rpglogs.cn
 DOMAIN-SUFFIX,rqnoj.cn
 DOMAIN-SUFFIX,rrmj.plus
+DOMAIN-SUFFIX,rrsp.app
+DOMAIN-SUFFIX,rrsp.com.cn
 DOMAIN-SUFFIX,rs.sinajs.cn
 DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,rsscc.cn
@@ -7919,6 +7925,7 @@ DOMAIN-SUFFIX,webankcdn.net
 DOMAIN-SUFFIX,webex.com.cn
 DOMAIN-SUFFIX,webgame163.com
 DOMAIN-SUFFIX,webmasterhome.cn
+DOMAIN-SUFFIX,weboss.hk
 DOMAIN-SUFFIX,webportal.top
 DOMAIN-SUFFIX,webterren.com
 DOMAIN-SUFFIX,wechat.com
@@ -8350,6 +8357,7 @@ DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yhfund.com.cn
 DOMAIN-SUFFIX,yicai.com
 DOMAIN-SUFFIX,yiche.com
+DOMAIN-SUFFIX,yichengwlkj.com
 DOMAIN-SUFFIX,yidianliulan.cn
 DOMAIN-SUFFIX,yidianliulan.com
 DOMAIN-SUFFIX,yigao.com
@@ -8777,11 +8785,11 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 # Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
