@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-google-gemini.srs
-# Total rules: 40
+# Total rules: 41
 #
 
 DOMAIN,ai.google.dev
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,opal.google

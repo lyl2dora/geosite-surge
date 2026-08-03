@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 9028
+# Total rules: 9029
 #
 
 DOMAIN,2mdn-cn.net
@@ -2850,6 +2850,7 @@ DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,cqn.com.cn
 DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,cqsjb.com
+DOMAIN-SUFFIX,cqtk.com.cn
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,cr-cts.com
 DOMAIN-SUFFIX,cr173.com
@@ -9023,11 +9024,11 @@ DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzclass.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: ^nis.+\.10010\.com$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
