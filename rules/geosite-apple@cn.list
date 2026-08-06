@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-apple@cn.srs
-# Total rules: 294
+# Total rules: 296
 #
 
 DOMAIN,a1.mzstatic.com
@@ -219,6 +219,8 @@ DOMAIN,sylvan.apple.com
 DOMAIN,sync.itunes.apple.com
 DOMAIN,tf-feedback.itunes.apple.com
 DOMAIN,tj-pod1-smp-device.apple.com
+DOMAIN,tj-pod2-smp-device.apple.com
+DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN,universal-activity-service.itunes.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
