@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-microsoft@cn.srs
-# Total rules: 190
+# Total rules: 189
 #
 
 DOMAIN,azuremigrate.download.prss.microsoft.com
@@ -19,7 +19,6 @@ DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dreamspark.download.prss.microsoft.com
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,itacademy.download.prss.microsoft.com
 DOMAIN,itacademyuat.download.prss.microsoft.com

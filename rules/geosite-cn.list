@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 9162
+# Total rules: 9131
 #
 
 DOMAIN,2mdn-cn.net
@@ -22,7 +22,6 @@ DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,ads5-normal.zijieapi.com
 DOMAIN,adservice.google.com
-DOMAIN,afcs.dell.com
 DOMAIN,ai.zhaomi.cn
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
@@ -120,7 +119,6 @@ DOMAIN,clickserver.googleads.com
 DOMAIN,client-api.itunes.apple.com
 DOMAIN,clientflow.apple.com
 DOMAIN,clientflow.apple.com.akadns.net
-DOMAIN,clientperipherals.dell.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cma.itunes.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
@@ -147,7 +145,6 @@ DOMAIN,cstat.cdn-apple.com
 DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,cueme-api.quark.cn
-DOMAIN,customization-cdn.dell.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dc1-cert.ksn.kaspersky-labs.com
 DOMAIN,dc1-file.ksn.kaspersky-labs.com
@@ -155,14 +152,12 @@ DOMAIN,dc1-pp.ksn.kaspersky-labs.com
 DOMAIN,dc1-st.ksn.kaspersky-labs.com
 DOMAIN,dc1.ksn.kaspersky-labs.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
-DOMAIN,dds.dell.com
 DOMAIN,dejavu.apple.com
 DOMAIN,developer.microsoft.com
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,dg-meta.video.google.com
 DOMAIN,discussionschinese.apple.com
-DOMAIN,dl.dell.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dnl-00.geo.kaspersky.com
@@ -195,11 +190,7 @@ DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,dreamspark.download.prss.microsoft.com
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
-DOMAIN,ea2cn-dev-outlet.dell.com
-DOMAIN,ea2cn-prod-outlet.dell.com
-DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,edge.geo.kaspersky.com
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
 DOMAIN,enrichgw.10010.com
@@ -207,23 +198,16 @@ DOMAIN,entitlements-edge.itunes.apple.com
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN,experiments.apple.com
 DOMAIN,f.c2r.ts.cdn.office.net
-DOMAIN,fcs.dell.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fpinit.itunes.apple.com
-DOMAIN,fta.dell.com
-DOMAIN,ftaapj.dell.com
-DOMAIN,ftaemea.dell.com
-DOMAIN,ftasitapj.dell.com
 DOMAIN,g0.gstatic.com
 DOMAIN,g1.gstatic.com
 DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
-DOMAIN,gbxgateway-dev.dell.com
-DOMAIN,gbxgateway.dell.com
 DOMAIN,gog.qtlglb.com
 DOMAIN,gonglchuangl.net
 DOMAIN,gongyichuangyi.net
@@ -276,7 +260,6 @@ DOMAIN,guzzoni.smoot.apple.com
 DOMAIN,hap.10010.com
 DOMAIN,hospital.pku.edu.cn
 DOMAIN,hs.wosms.cn
-DOMAIN,i.dell.com
 DOMAIN,i.pki.goog
 DOMAIN,id6.me
 DOMAIN,images-cn-8.ssl-images-amazon.com
@@ -374,7 +357,6 @@ DOMAIN,musicstatus.music.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,myvs.download.prss.microsoft.com
-DOMAIN,nexus.dell.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,ntp.aliyun.com
 DOMAIN,ntp.tencent.com
@@ -406,7 +388,6 @@ DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
-DOMAIN,p.cdn.persaas.dell.com
 DOMAIN,p00.upd.kaspersky.com
 DOMAIN,p01.upd.kaspersky.com
 DOMAIN,p02.upd.kaspersky.com
@@ -508,7 +489,6 @@ DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
-DOMAIN,scene7-cdn.dell.com
 DOMAIN,sdx.microsoft.com
 DOMAIN,se-edge.itunes.apple.com
 DOMAIN,se2.itunes.apple.com
@@ -522,11 +502,7 @@ DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,shell.cdn.office.net
-DOMAIN,si.cdn.dell.com
-DOMAIN,sm.dell.com
 DOMAIN,smp-device-content.apple.com
-DOMAIN,snp.cdn.dell.com
-DOMAIN,snpi.dell.com
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN,sp.itunes.apple.com
 DOMAIN,speedysub.music.apple.com
@@ -555,7 +531,6 @@ DOMAIN,study.163.com
 DOMAIN,su.itunes.apple.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.apple.com
-DOMAIN,supportassist.dell.com
 DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,swallow-apple-com.v.aaplimg.com
@@ -580,7 +555,6 @@ DOMAIN,tj-pod2-smp-device.apple.com
 DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,tools.google.com
-DOMAIN,tp.louisvuitton.com
 DOMAIN,trts.baishancdnx.cn
 DOMAIN,ubisoftconnect.eo-edgefunctions7.com
 DOMAIN,universal-activity-service.itunes.apple.com
@@ -589,7 +563,6 @@ DOMAIN,update.googleapis.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN,upp.itunes.apple.com
 DOMAIN,valid.apple.com
@@ -606,13 +579,10 @@ DOMAIN,weather-map2.apple.com
 DOMAIN,weatherkit.apple.com
 DOMAIN,windbg.download.prss.microsoft.com
 DOMAIN,wlog.kuaishou.com
-DOMAIN,www-csb.dell.com
 DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
-DOMAIN,www.amd.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
-DOMAIN,www.dell.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.entrust.cn
 DOMAIN,www.gstatic.com
@@ -5948,7 +5918,6 @@ DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mooc.cn
 DOMAIN-SUFFIX,moocollege.com
-DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonshot.cn
 DOMAIN-SUFFIX,moonvy.com
 DOMAIN-SUFFIX,moonvy.cool
@@ -9157,11 +9126,11 @@ DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzclass.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
