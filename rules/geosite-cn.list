@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 9185
+# Total rules: 9194
 #
 
 DOMAIN,2mdn-cn.net
@@ -809,6 +809,7 @@ DOMAIN-SUFFIX,360panyun.cn
 DOMAIN-SUFFIX,360pay.cn
 DOMAIN-SUFFIX,360qhcdn.com
 DOMAIN-SUFFIX,360safe.com
+DOMAIN-SUFFIX,360scdn.com
 DOMAIN-SUFFIX,360shouji.com
 DOMAIN-SUFFIX,360sjyh.cn
 DOMAIN-SUFFIX,360so.com
@@ -3110,6 +3111,7 @@ DOMAIN-SUFFIX,deepin.com
 DOMAIN-SUFFIX,deepin.org.cn
 DOMAIN-SUFFIX,deepinos.org
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com
 DOMAIN-SUFFIX,dell-alw.com
 DOMAIN-SUFFIX,dell-brand.com
 DOMAIN-SUFFIX,dell.com.cn
@@ -7409,6 +7411,7 @@ DOMAIN-SUFFIX,tcloudscdn.net
 DOMAIN-SUFFIX,tcltech.com
 DOMAIN-SUFFIX,tcp5.com
 DOMAIN-SUFFIX,tcss.qq.com
+DOMAIN-SUFFIX,tctpwebankcdn.net
 DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,tdnsdl1.cn
 DOMAIN-SUFFIX,tdnsdl1.com.cn
@@ -7489,7 +7492,9 @@ DOMAIN-SUFFIX,tencentbyod.com
 DOMAIN-SUFFIX,tencentcdb.cn
 DOMAIN-SUFFIX,tencentcdb.com
 DOMAIN-SUFFIX,tencentcdb.com.cn
+DOMAIN-SUFFIX,tencentclb.cn
 DOMAIN-SUFFIX,tencentclb.com
+DOMAIN-SUFFIX,tencentclb.com.cn
 DOMAIN-SUFFIX,tencentcloud-aiot.com
 DOMAIN-SUFFIX,tencentcloud.com
 DOMAIN-SUFFIX,tencentcloudapi.com
@@ -7513,6 +7518,7 @@ DOMAIN-SUFFIX,tencenteiam.com
 DOMAIN-SUFFIX,tencentelasticsearch.com
 DOMAIN-SUFFIX,tencentid.com
 DOMAIN-SUFFIX,tencentidentity.com
+DOMAIN-SUFFIX,tencentmiying.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencentproxy.com
 DOMAIN-SUFFIX,tencentrio.com
@@ -7525,6 +7531,7 @@ DOMAIN-SUFFIX,tenda.com.cn
 DOMAIN-SUFFIX,tendbcluster.com
 DOMAIN-SUFFIX,tendcloud.com
 DOMAIN-SUFFIX,tendis.net
+DOMAIN-SUFFIX,tengmed.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tenxcloud.com
 DOMAIN-SUFFIX,terapeak.cn
@@ -8240,6 +8247,7 @@ DOMAIN-SUFFIX,wasumedia.cn
 DOMAIN-SUFFIX,wbclick.mobile.sina.cn
 DOMAIN-SUFFIX,wbimg.cn
 DOMAIN-SUFFIX,wbimg.com
+DOMAIN-SUFFIX,wbweilicai.com
 DOMAIN-SUFFIX,wcbygame.com
 DOMAIN-SUFFIX,wcdn.cn
 DOMAIN-SUFFIX,wch-ic.com
@@ -8373,6 +8381,7 @@ DOMAIN-SUFFIX,woodo.cn
 DOMAIN-SUFFIX,wooyun.org
 DOMAIN-SUFFIX,woozooo.com
 DOMAIN-SUFFIX,woread.com.cn
+DOMAIN-SUFFIX,workbuddy.cn
 DOMAIN-SUFFIX,workercn.cn
 DOMAIN-SUFFIX,worktile.com
 DOMAIN-SUFFIX,worldofship.cn
@@ -9180,11 +9189,11 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
 # Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
