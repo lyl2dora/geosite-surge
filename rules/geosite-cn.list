@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 9194
+# Total rules: 9196
 #
 
 DOMAIN,2mdn-cn.net
@@ -8872,6 +8872,7 @@ DOMAIN-SUFFIX,yuanbao.tencent.com
 DOMAIN-SUFFIX,yuanbei.biz
 DOMAIN-SUFFIX,yuanfudao.com
 DOMAIN-SUFFIX,yuanqi.tencent.com
+DOMAIN-SUFFIX,yuanqidesk.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,yuansouti.com
 DOMAIN-SUFFIX,yuantiku.com
@@ -9024,6 +9025,7 @@ DOMAIN-SUFFIX,zhaopin.com
 DOMAIN-SUFFIX,zhcw.com
 DOMAIN-SUFFIX,zhenai.com
 DOMAIN-SUFFIX,zhfund.com
+DOMAIN-SUFFIX,zhhainiao.com
 DOMAIN-SUFFIX,zhi10.com
 DOMAIN-SUFFIX,zhibo8.cc
 DOMAIN-SUFFIX,zhibo8.com
@@ -9189,11 +9191,11 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
