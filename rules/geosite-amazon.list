@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-amazon.srs
-# Total rules: 239
+# Total rules: 240
 #
 
 DOMAIN,images-cn-8.ssl-images-amazon.com
@@ -220,6 +220,7 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,sagemaker.com.cn
 DOMAIN-SUFFIX,seattlespheres.com
