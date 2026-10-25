@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 9354
+# Total rules: 9371
 #
 
 DOMAIN,2mdn-cn.net
@@ -44,6 +44,7 @@ DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement-cn.com
 DOMAIN,app-measurement.com
 DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,app.moegirl.org.cn
 DOMAIN,appldnld.apple.com
 DOMAIN,appldnld.g.aaplimg.com
 DOMAIN,appleid.cdn-apple.com
@@ -527,6 +528,7 @@ DOMAIN,statics.teams.cdn.office.net
 DOMAIN,status.alibabacloud.com
 DOMAIN,stocks-sparkline-lb.apple.com.akadns.net
 DOMAIN,stocks-sparkline.apple.com
+DOMAIN,storage.moegirl.org.cn
 DOMAIN,store.apple.com
 DOMAIN,store.apple.com.edgekey.net
 DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
@@ -1102,6 +1104,7 @@ DOMAIN-SUFFIX,a9vg.com
 DOMAIN-SUFFIX,aadcloud.cn
 DOMAIN-SUFFIX,aadcloud.com
 DOMAIN-SUFFIX,aadrm.cn
+DOMAIN-SUFFIX,aaej.cn
 DOMAIN-SUFFIX,aaic.com.cn
 DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,aamgame.com
@@ -1885,6 +1888,7 @@ DOMAIN-SUFFIX,biaoda.me
 DOMAIN-SUFFIX,bibaodao.com
 DOMAIN-SUFFIX,bidchance.com
 DOMAIN-SUFFIX,biddingx.com
+DOMAIN-SUFFIX,bigdatacq.com
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,bigmodel.cn
@@ -1967,6 +1971,7 @@ DOMAIN-SUFFIX,bocamchina.com
 DOMAIN-SUFFIX,bocaviation.com
 DOMAIN-SUFFIX,boccfc.cc
 DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocd.com.cn
 DOMAIN-SUFFIX,boce.com
 DOMAIN-SUFFIX,bocfullertonbank.com
 DOMAIN-SUFFIX,bocgi.com
@@ -2393,6 +2398,8 @@ DOMAIN-SUFFIX,cdntips.net
 DOMAIN-SUFFIX,cdnv1.cn
 DOMAIN-SUFFIX,cdnv2.cn
 DOMAIN-SUFFIX,cdnv3.cn
+DOMAIN-SUFFIX,cdrcb.com
+DOMAIN-SUFFIX,cdrcbank.com
 DOMAIN-SUFFIX,cdut.top
 DOMAIN-SUFFIX,ce.cn
 DOMAIN-SUFFIX,ceair.com
@@ -2634,6 +2641,7 @@ DOMAIN-SUFFIX,clangcn.com
 DOMAIN-SUFFIX,clawhub-mirror.com
 DOMAIN-SUFFIX,clawhubmirror.com
 DOMAIN-SUFFIX,clawsentry.cn
+DOMAIN-SUFFIX,cldisk.com
 DOMAIN-SUFFIX,cleargrass.com
 DOMAIN-SUFFIX,clewm.net
 DOMAIN-SUFFIX,cli.im
@@ -2905,13 +2913,17 @@ DOMAIN-SUFFIX,cpu.baidu.com
 DOMAIN-SUFFIX,cqcb.com
 DOMAIN-SUFFIX,cqccn.com
 DOMAIN-SUFFIX,cqctyiptv.cn
+DOMAIN-SUFFIX,cqdcg.com
+DOMAIN-SUFFIX,cqge.com.cn
 DOMAIN-SUFFIX,cqhlw.cn
 DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,cqn.com.cn
 DOMAIN-SUFFIX,cqnews.net
+DOMAIN-SUFFIX,cqsdlys.cn
 DOMAIN-SUFFIX,cqsjb.com
 DOMAIN-SUFFIX,cqtk.com.cn
 DOMAIN-SUFFIX,cqvip.com
+DOMAIN-SUFFIX,cqyyxc.com
 DOMAIN-SUFFIX,cr-cts.com
 DOMAIN-SUFFIX,cr173.com
 DOMAIN-SUFFIX,crash.163.com
@@ -3213,6 +3225,7 @@ DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,diditaxi.com.cn
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,digicert.cn
+DOMAIN-SUFFIX,digitalcnzz.com
 DOMAIN-SUFFIX,digitaling.com
 DOMAIN-SUFFIX,diiing.cn
 DOMAIN-SUFFIX,dili360.com
@@ -3457,6 +3470,7 @@ DOMAIN-SUFFIX,e.stat.ykimg.com
 DOMAIN-SUFFIX,e0n.cn
 DOMAIN-SUFFIX,eagsen.com
 DOMAIN-SUFFIX,easec.com.cn
+DOMAIN-SUFFIX,easemob.com
 DOMAIN-SUFFIX,easesale.com
 DOMAIN-SUFFIX,easiu.com
 DOMAIN-SUFFIX,eastday.com
@@ -4081,6 +4095,7 @@ DOMAIN-SUFFIX,gpall.cn
 DOMAIN-SUFFIX,gpall.net
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,gputechconf.cn
+DOMAIN-SUFFIX,gpzshq.cn
 DOMAIN-SUFFIX,gracg.com
 DOMAIN-SUFFIX,greatwallwine.com.cn
 DOMAIN-SUFFIX,gree.cn
@@ -4601,6 +4616,7 @@ DOMAIN-SUFFIX,iadmusicmat.music.126.net
 DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,iask.com
+DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,ibaotu.com
 DOMAIN-SUFFIX,ibcet.org
 DOMAIN-SUFFIX,ibdxiguaimg.com
@@ -4630,7 +4646,6 @@ DOMAIN-SUFFIX,ichangtou.com
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com.cn
-DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
@@ -4838,6 +4853,8 @@ DOMAIN-SUFFIX,isealsuite.com
 DOMAIN-SUFFIX,ishijue.com
 DOMAIN-SUFFIX,ishumei.com
 DOMAIN-SUFFIX,ishuqi.com
+DOMAIN-SUFFIX,isigning.cn
+DOMAIN-SUFFIX,isigning.com
 DOMAIN-SUFFIX,ispqcloud.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,istv.cn
@@ -6027,8 +6044,6 @@ DOMAIN-SUFFIX,modelers.cn
 DOMAIN-SUFFIX,modernjs.cn
 DOMAIN-SUFFIX,modex.com.cn
 DOMAIN-SUFFIX,moedu.com
-DOMAIN-SUFFIX,moegirl.org
-DOMAIN-SUFFIX,moegirl.org.cn
 DOMAIN-SUFFIX,moer.cn
 DOMAIN-SUFFIX,mofang.com
 DOMAIN-SUFFIX,mofazhu.com
@@ -6185,6 +6200,7 @@ DOMAIN-SUFFIX,naixuecha.com
 DOMAIN-SUFFIX,nalrer.cn
 DOMAIN-SUFFIX,namiso.com
 DOMAIN-SUFFIX,nanhaicorp.com
+DOMAIN-SUFFIX,nanocorechip.com
 DOMAIN-SUFFIX,nanyuenews.com
 DOMAIN-SUFFIX,narwal.com
 DOMAIN-SUFFIX,narwaltech.com
@@ -8802,6 +8818,7 @@ DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,xuexi365.com.cn
 DOMAIN-SUFFIX,xuexi365.net
 DOMAIN-SUFFIX,xuexicha.com
+DOMAIN-SUFFIX,xuexitong.com
 DOMAIN-SUFFIX,xundupdf.com
 DOMAIN-SUFFIX,xunfei.cn
 DOMAIN-SUFFIX,xunfeixxj.com
@@ -9349,11 +9366,11 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com
-# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
-# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # Regex rule not directly supported: ^nis.+\.10010\.com$
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+# Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
