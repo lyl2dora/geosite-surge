@@ -19,14 +19,14 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v7
       with:
-        python-version: '3.11'
+        python-version: '3.13'
     
     - name: Install Python dependencies
       run: |
@@ -34,9 +34,15 @@ jobs:
         pip install -r requirements.txt
     
     - name: Install sing-box
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        # Get latest release version
-        LATEST_VERSION=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name"' | sed -E 's/.*"v([^"]+)".*/\1/')
+        # Get latest release version (authenticated to avoid API rate limits)
+        LATEST_VERSION=$(gh release view -R SagerNet/sing-box --json tagName -q .tagName | sed 's/^v//')
+        if [ -z "${LATEST_VERSION}" ]; then
+          echo "Failed to get sing-box latest version" >&2
+          exit 1
+        fi
         echo "Installing sing-box version: ${LATEST_VERSION}"
         
         # Download and extract sing-box
