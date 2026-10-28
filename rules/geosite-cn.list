@@ -1,6 +1,6 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-cn.srs
-# Total rules: 9371
+# Total rules: 9373
 #
 
 DOMAIN,2mdn-cn.net
@@ -3747,6 +3747,7 @@ DOMAIN-SUFFIX,fgo.wiki
 DOMAIN-SUFFIX,fhldns.com
 DOMAIN-SUFFIX,fhyx.com
 DOMAIN-SUFFIX,filez.com
+DOMAIN-SUFFIX,filmorigin.com
 DOMAIN-SUFFIX,fimmu.com
 DOMAIN-SUFFIX,finchina.com
 DOMAIN-SUFFIX,finclip.com
@@ -5058,7 +5059,6 @@ DOMAIN-SUFFIX,jike.city
 DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,jikexueyuan.com
-DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,jimeng.com
 DOMAIN-SUFFIX,jin10.com
 DOMAIN-SUFFIX,jinantimes.com.cn
@@ -5253,6 +5253,7 @@ DOMAIN-SUFFIX,kaipuyun.com.cn
 DOMAIN-SUFFIX,kaipuyun.net
 DOMAIN-SUFFIX,kaixin001.com
 DOMAIN-SUFFIX,kajicam.com
+DOMAIN-SUFFIX,kakaxing.com
 DOMAIN-SUFFIX,kameng98.com
 DOMAIN-SUFFIX,kanbox.com
 DOMAIN-SUFFIX,kancloud.cn
@@ -8684,6 +8685,7 @@ DOMAIN-SUFFIX,xiaolianhb.com
 DOMAIN-SUFFIX,xiaoluyouxuan.com
 DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,xiaomaicn.com
+DOMAIN-SUFFIX,xiaomaigui.com
 DOMAIN-SUFFIX,xiaomengai.com
 DOMAIN-SUFFIX,xiaomi.cn
 DOMAIN-SUFFIX,xiaomi.com
@@ -9366,11 +9368,11 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,zzzcaculator.top
 DOMAIN-SUFFIX,zzzmap.com
+# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 # Regex rule not directly supported: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
-# Regex rule not directly supported: ^nis.+\.10010\.com$
-# Regex rule not directly supported: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # Regex rule not directly supported: ^.+-mihayo\.akamaized\.net$
+# Regex rule not directly supported: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+# Regex rule not directly supported: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# Regex rule not directly supported: ^nis.+\.10010\.com$
