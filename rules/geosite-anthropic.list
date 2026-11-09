@@ -1,8 +1,10 @@
 # Surge Rule Set
 # Generated from: https://github.com/SagerNet/sing-geosite/raw/refs/heads/rule-set/geosite-anthropic.srs
-# Total rules: 19
+# Total rules: 21
 #
 
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,o1158394.ingest.us.sentry.io
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,anthropic.com
